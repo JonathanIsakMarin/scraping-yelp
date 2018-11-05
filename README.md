@@ -6,6 +6,7 @@ This repository contains and R code that can be used to scrape information about
 I have included code to visualize interesting parts of the data (such as price level vs. ratings). I have also geolocated the restaurant addresses ussing ggmap, calculated their distance from the city center and plotted them on a map of Copenhagen.
 
 
+![alt text](https://ibb.co/kFqRf0)
 
 ![ScreenShot](https://{https://ibb.co/kFqRf0})
 
