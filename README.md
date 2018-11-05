@@ -8,8 +8,6 @@ I have included code to visualize interesting parts of the data (such as price l
 
 ![alt text](https://ibb.co/kFqRf0.png)
 
-![ScreenShot](https://{ibb.co/kFqRf0})
-
-![myimage-alt-tag](https://ibb.co/kFqRf0)
+![myimage-alt-tag](https://imgur.com/a/TgfM1we.png)
 
 
